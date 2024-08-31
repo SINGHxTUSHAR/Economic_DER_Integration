@@ -14,7 +14,8 @@
 # Economic_DER_Integration :
 Economical demand-side management with distributed energy resources
 ![preview img](/preview.png)
-## `1.1 INTRODUCTION:`
+
+## `INTRODUCTION:`
 Demand side management is an important aspect of managing the energy system. The process involves matching the amount of energy being produced with the amount of energy being consumed. A difficult issue because there is not enough storage available and financially feasible.  Time dealing with the current situation. It is now necessary to address the peak demand because of the expensive cost of the immediate market and traffic in the delivery system may need to reassess their current approach and consider implementing new strategies to address these emerging challenges. Indicates there is a growing global recognition and admiration for load flexibility.
 The term used to describe this concept is called Demand Response (DR), which aims to raise the level of the system to make it more efficient and increase flexibility. Demand refers to the quantity of a good or service that consumers are willing and able to purchase at a given price and within a specific time period. System is no longer considered acceptable. The system is in danger and the market price is at risk in the near future.
 
@@ -27,7 +28,7 @@ However, power system has made significant technical advancement, still distribu
 The basic idea behind designing a good Demand Response strategy is to give certain incentives to the electricity consumers to alter their consumption pattern which is beneficial not only to the consumers from the financial perspective but also to the electricity provider and overall reliability of the power system [14]. Various pricing mechanism for DR schemes such as Time of Use (TOI), Real Time Pricing (RTP) and Critical Peak Pricing (CPP) have been developed which addresses the above objectives [8].
 
 
-## `1.2 Key Challenges:`
+## `Key Challenges:`
 One of the main difficulties in carrying out successful DSM (Demand Side Management) programs is finding appropriate customers who are able to engage in demand response initiatives.
 These individuals, commonly known as "DSM candidates," are essential in meeting high demand periods and decreasing energy usage during expensive hours.
 
